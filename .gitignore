@@ -1,0 +1,2 @@
+# You should ignore .env files in production
+# *.env
